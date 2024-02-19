@@ -8,6 +8,7 @@ Ce projet a été développé en utilisant les technologies et langages suivants
 
 - **PHP** : Langage de script utilisé pour le développement serveur.
 - **Symfony** : Un framework PHP pour le développement d'applications web.
+- **CSS** : Utilisé pour définir le style et la mise en page de l'application web.
 - **JavaScript** : Pour dynamiser les pages web et améliorer l'interaction utilisateur.
 - **Python** : Employé pour ses capacités en :
   - **Data Processing** : Préparation et manipulation des données.
